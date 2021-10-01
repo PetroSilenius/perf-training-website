@@ -5,8 +5,6 @@ The course can be found [here](https://frontendmasters.com/courses/web-perf/) an
 
 > Build faster websites and web applications by learning the current metrics and techniques for improving web performance. We’ll look at the psychology of web performance and how users see wait time on your site. Then learn the new core web vitals metrics like first contentful paint (FCP), largest contentful paint (LCP), and cumulative layout shift (CLS), and how to improve each metric. Finally, we’ll discuss building a performance culture in your organization to start your applications fast from the beginning!
 
-[Course website](https://learn-a11y.netlify.app/)
-
 ## Final product
 A landing page for a service, the course focuses on making performance improvements to the page. The landing page is not meant for production usage but instead to illustrate common and effective techniques to improve the performance of a website.
 
